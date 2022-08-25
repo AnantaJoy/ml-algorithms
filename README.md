@@ -10,12 +10,17 @@
   </tr>
   <tr>
     <td>Linear Regression</td>
-  </tr>
-  <tr>
+    <td></td>
     <td><ul>
     <li><a href=""></a></li>
     <li><a href=""><a></li>
     </ul>
+     <td>
+     <td>
+     </td>
+  </tr>
+  <tr>
+   
   </tr>
 </table>
 
