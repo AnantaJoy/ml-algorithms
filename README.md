@@ -19,10 +19,42 @@
      </td>
   </tr>
   <tr>
-   
+   <td>Logistic Regression</td>
   </tr>
-</table>
+   <tr>
+   <td>Classification</td>
+  </tr>
+    <tr>
+   <td>Clustering</td>
+  </tr>  
+  <tr>
+   <td>Gradient Descent</td>
+  </tr>
+   <tr>
+   <td>Naive Bayes</td>
+  </tr>
+   <tr>
+   <td>K-nearest Neighbours(KNN)</td>
+  </tr>
+    <tr>
+   <td>Learning Vector Quantization(LVQ)</td>
+  </tr>
+  <tr>
+   <td>Support Vector Machine(SVM)</td>
+  </tr>
+    <tr>
+   <td>Random Forest(RF)</td>
+  </tr>
+    <tr>
+   <td>Ada Boost</td>
+  </tr>
+  <tr>
+   <td>Apriori</td>
+  </tr>
 
+   Apriori
+</table>
+<image src="https://cdn-clekk.nitrocdn.com/tkvYXMZryjYrSVhxKeFTeXElceKUYHeV/assets/static/optimized/rev-5ea28ac/wp-content/uploads/2021/05/machine-learning-types-infographics_1-1536x695.png">
 <p>To undestand the example better, we have added borders to the table.</p>
 
 </body>
