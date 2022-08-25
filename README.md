@@ -60,7 +60,7 @@
 <image src="https://cdn-clekk.nitrocdn.com/tkvYXMZryjYrSVhxKeFTeXElceKUYHeV/assets/static/optimized/rev-5ea28ac/wp-content/uploads/2021/05/machine-learning-types-infographics_1-1536x695.png">
 <p>Additional Reading</p>
  <ul>
-   <li><a href="https://www.datacamp.com/cheat-sheet/machine-learning-cheat-sheet>DataCamp"</a></li>
+   <li><a href="https://www.datacamp.com/cheat-sheet/machine-learning-cheat-sheet">DataCamp</a></li>
    </ul>
 
 </body>
