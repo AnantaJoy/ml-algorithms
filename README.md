@@ -1,29 +1,21 @@
-<!DOCTYPE html>
-<html>
-<style>
-table, th, td {
-  border:1px solid black;
-}
-</style>
-<body>
 
-<h2>A basic HTML table</h2>
+<h1>Machine Learning Algorithms(Basics)</h2>
 
 <table style="width:100%">
   <tr>
-    <th>Company</th>
-    <th>Contact</th>
-    <th>Country</th>
+    <th>Algorithm Name</th>
+    <th>Practice Code</th>
+    <th>Learning Materials</th>
+    <th>Status</>
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
+    <td>Linear Regression</td>
   </tr>
   <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
+    <td><ul>
+    <li><a href=""></a></li>
+    <li><a href=""><a></li>
+    </ul>
   </tr>
 </table>
 
