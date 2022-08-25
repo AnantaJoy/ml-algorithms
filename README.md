@@ -51,11 +51,17 @@
   <tr>
    <td>Apriori</td>
   </tr>
-
+  </tr>
+  <tr>
+   <td>PCA</td>
+  </tr>
    Apriori
 </table>
 <image src="https://cdn-clekk.nitrocdn.com/tkvYXMZryjYrSVhxKeFTeXElceKUYHeV/assets/static/optimized/rev-5ea28ac/wp-content/uploads/2021/05/machine-learning-types-infographics_1-1536x695.png">
-<p>To undestand the example better, we have added borders to the table.</p>
+<p>Additional Reading</p>
+ <ul>
+   <a href="https://www.datacamp.com/cheat-sheet/machine-learning-cheat-sheet>DataCamp</a>
+   </ul>
 
 </body>
 </html>
