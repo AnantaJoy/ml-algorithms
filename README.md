@@ -45,6 +45,15 @@
     <tr>
    <td>Random Forest(RF)</td>
   </tr>
+  <tr>
+   <td>XGBoost</td>
+  </tr>
+  <tr>
+  <td>LightGBM</td>
+  </tr>
+  <tr>
+  <td>CatBoost</td>
+  </tr>
     <tr>
    <td>Ada Boost</td>
   </tr>
